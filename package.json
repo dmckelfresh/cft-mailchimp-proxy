@@ -1,0 +1,6 @@
+{
+  "name": "cft-mailchimp-proxy",
+  "version": "1.0.0",
+  "description": "Serverless Mailchimp subscribe proxy for Credits for Teachers quiz",
+  "private": true
+}
