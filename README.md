@@ -1,2 +1,9 @@
-# cft-mailchimp-proxy
-Serverless proxy for Credits for Teachers Mailchimp integration
+# CFT Mailchimp Proxy
+
+Serverless proxy for Credits for Teachers Mailchimp integration.
+
+Endpoint: 
+
+## Request Body
+
+
